@@ -1,0 +1,18 @@
+# ملفات كاش بايثون
+__pycache__/
+*.py[cod]
+*$py.class
+
+# البيئة الوهمية (Virtual Environment)
+venv/
+.venv/
+env/
+
+# ملفات المتغيرات السرية (مهم جداً للأمان)
+.env
+*.secret
+
+# ملفات محررات الأكواد والنظام
+.vscode/
+.idea/
+.DS_Store
