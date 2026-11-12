@@ -1,0 +1,50 @@
+{
+    "EXP_1794458511": {
+        "timestamp": "2026-11-12 04:41:51",
+        "project_name": "customer_default_prediction",
+        "model_type": "LightGBM",
+        "score": 0.4950370030250648,
+        "best_params": {
+            "n_estimators": 1500,
+            "learning_rate": 0.03,
+            "num_leaves": 63,
+            "subsample": 0.8,
+            "colsample_bytree": 0.8,
+            "random_state": 42
+        },
+        "features_used": [
+            "age",
+            "income",
+            "credit_score_log",
+            "credit_score",
+            "transaction_count_log",
+            "transaction_count",
+            "is_merchant",
+            "income_log"
+        ]
+    },
+    "EXP_1794459852": {
+        "timestamp": "2026-11-12 05:04:12",
+        "project_name": "customer_default_prediction",
+        "model_type": "LightGBM",
+        "score": 0.4950370030250648,
+        "best_params": {
+            "n_estimators": 1500,
+            "learning_rate": 0.03,
+            "num_leaves": 63,
+            "subsample": 0.8,
+            "colsample_bytree": 0.8,
+            "random_state": 42
+        },
+        "features_used": [
+            "age",
+            "income",
+            "credit_score_log",
+            "credit_score",
+            "transaction_count_log",
+            "transaction_count",
+            "is_merchant",
+            "income_log"
+        ]
+    }
+}
