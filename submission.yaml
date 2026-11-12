@@ -1,0 +1,6 @@
+agent_harness_version: 1.0.0
+description: Autonomous physical engineering agent harness powered by Google Gemini
+  with iterative self-correction.
+judge_model: none
+model_name: google-cloud/gemini-2.5-flash-lite
+use_local_judge: false
